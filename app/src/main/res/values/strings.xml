@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="titulo_app">Lista de Superheroes</string>
+    <string name="subtitulo_app">Universidad de Caldas - Programacion para Dispositivos Moviles</string>
+</resources>
